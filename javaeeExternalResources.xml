@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://schemas.android.com/apk/res/android" location="$USER_HOME$/AndroidStudioProjects/AppRoomKR" />
+    <resource url="http://schemas.android.com/tools" location="$USER_HOME$/AndroidStudioProjects/AppRoomKR" />
+    <ignored-resource url="http://schemas.android.com/apk/res/android" />
+  </component>
+</application>

@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.karenreal.approomkr.Adapters.Adapter_p.Adapter_p(context,listap)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
